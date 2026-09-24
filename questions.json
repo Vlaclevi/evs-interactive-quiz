@@ -1,0 +1,1762 @@
+ [
+  {
+    "question": "What is sustainability?",
+    "options": [
+      "Focusing only on economic growth",
+      "Using all resources as quickly as possible",
+      "Avoiding all technological development",
+      "Meeting present needs without compromising future generations"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Meeting present needs without compromising future generations"
+  },
+  {
+    "question": "Why is sustainability needed?",
+    "options": [
+      "To increase consumption of non-renewable resources",
+      "To maximize waste generation",
+      "To eliminate social development",
+      "To balance human development with long-term resource availability"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: To balance human development with long-term resource availability"
+  },
+  {
+    "question": "Which three dimensions form the commonly recognized pillars of sustainability?",
+    "options": [
+      "Social, environmental and economic",
+      "Political, military and technological",
+      "Local, national and international",
+      "Agricultural, industrial and commercial"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Social, environmental and economic"
+  },
+  {
+    "question": "Social sustainability primarily focuses on:",
+    "options": [
+      "Increasing fossil-fuel consumption",
+      "Maximum extraction of minerals",
+      "Reducing community participation",
+      "Equity, well-being and quality of life"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Equity, well-being and quality of life"
+  },
+  {
+    "question": "Environmental sustainability aims to:",
+    "options": [
+      "Promote unlimited resource extraction",
+      "Protect ecosystems and use natural resources responsibly",
+      "Increase pollution to support industries",
+      "Replace all natural ecosystems with cities"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Protect ecosystems and use natural resources responsibly"
+  },
+  {
+    "question": "Economic sustainability refers to:",
+    "options": [
+      "Achieving short-term profit at any environmental cost",
+      "Depending only on non-renewable resources",
+      "Maintaining long-term economic well-being without exhausting social and natural resources",
+      "Stopping all economic activity"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Maintaining long-term economic well-being without exhausting social and natural resources"
+  },
+  {
+    "question": "Which is an example of social sustainability?",
+    "options": [
+      "Providing equitable access to education and healthcare",
+      "Wasting electricity in public buildings",
+      "Clearing forests for short-term profit",
+      "Increasing untreated industrial discharge"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Providing equitable access to education and healthcare"
+  },
+  {
+    "question": "Which is an example of environmental sustainability?",
+    "options": [
+      "Conserving biodiversity and reducing pollution",
+      "Burning waste in open areas",
+      "Over-extracting groundwater",
+      "Increasing single-use products"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Conserving biodiversity and reducing pollution"
+  },
+  {
+    "question": "Which is an example of economic sustainability?",
+    "options": [
+      "Ignoring maintenance of infrastructure",
+      "Depending entirely on finite resources",
+      "Improving resource efficiency while maintaining long-term productivity",
+      "Using resources without considering future costs"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Improving resource efficiency while maintaining long-term productivity"
+  },
+  {
+    "question": "The concept of sustainable development was widely defined by the Brundtland Commission as development that:",
+    "options": [
+      "Stops all industrial activity",
+      "Prioritizes current consumption over future needs",
+      "Meets present needs without compromising future generations' ability to meet their needs",
+      "Uses only imported resources"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Meets present needs without compromising future generations' ability to meet their needs"
+  },
+  {
+    "question": "The Brundtland Report is commonly known as:",
+    "options": [
+      "Silent Spring",
+      "Agenda for Industry",
+      "Our Common Future",
+      "Limits to Technology"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Our Common Future"
+  },
+  {
+    "question": "Sustainable development requires integration of:",
+    "options": [
+      "Environmental protection, social progress and economic development",
+      "Only industrial expansion",
+      "Only economic development",
+      "Only environmental protection"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Environmental protection, social progress and economic development"
+  },
+  {
+    "question": "Which United Nations framework contains 17 Sustainable Development Goals?",
+    "options": [
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "2030 Agenda for Sustainable Development",
+      "Basel Convention"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: 2030 Agenda for Sustainable Development"
+  },
+  {
+    "question": "Which SDG specifically addresses clean water and sanitation?",
+    "options": [
+      "SDG 9",
+      "SDG 6",
+      "SDG 2",
+      "SDG 15"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: SDG 6"
+  },
+  {
+    "question": "Which SDG focuses on affordable and clean energy?",
+    "options": [
+      "SDG 16",
+      "SDG 3",
+      "SDG 7",
+      "SDG 12"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: SDG 7"
+  },
+  {
+    "question": "Which SDG focuses on responsible consumption and production?",
+    "options": [
+      "SDG 14",
+      "SDG 12",
+      "SDG 8",
+      "SDG 4"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: SDG 12"
+  },
+  {
+    "question": "The nexus between technology and sustainable development means that technology can:",
+    "options": [
+      "Guarantee sustainability regardless of how it is used",
+      "Replace the need for environmental policies",
+      "Support efficient resource use and help solve sustainability challenges",
+      "Only increase environmental damage"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Support efficient resource use and help solve sustainability challenges"
+  },
+  {
+    "question": "Which technology can directly support sustainable energy development?",
+    "options": [
+      "Solar photovoltaic systems",
+      "Inefficient incandescent lighting",
+      "Open burning of coal waste",
+      "Diesel generators used unnecessarily"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Solar photovoltaic systems"
+  },
+  {
+    "question": "Smart irrigation contributes to sustainability mainly by:",
+    "options": [
+      "Optimizing water use based on crop needs",
+      "Increasing soil salinity deliberately",
+      "Preventing all agricultural production",
+      "Increasing water loss"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Optimizing water use based on crop needs"
+  },
+  {
+    "question": "A major sustainability benefit of energy-efficient technology is:",
+    "options": [
+      "Higher resource wastage",
+      "Increased pollution per unit of output",
+      "Greater dependence on fossil fuels",
+      "Reduced energy demand and associated emissions"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Reduced energy demand and associated emissions"
+  },
+  {
+    "question": "Which technology can help cities reduce solid waste sent to landfills?",
+    "options": [
+      "Open dumping",
+      "Uncontrolled incineration",
+      "Mixing hazardous and household waste",
+      "Material recovery and recycling technologies"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Material recovery and recycling technologies"
+  },
+  {
+    "question": "Life-cycle thinking in technology selection considers:",
+    "options": [
+      "Only the appearance of the product",
+      "Only the purchase price",
+      "Impacts from raw material extraction through production, use and end-of-life",
+      "Only the manufacturing location"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Impacts from raw material extraction through production, use and end-of-life"
+  },
+  {
+    "question": "A possible challenge associated with rapid technological development is:",
+    "options": [
+      "Automatic elimination of inequality",
+      "Complete removal of resource demand",
+      "Guaranteed biodiversity conservation",
+      "Generation of electronic waste"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Generation of electronic waste"
+  },
+  {
+    "question": "The digital divide is a sustainability concern because it refers to:",
+    "options": [
+      "Equal distribution of natural resources",
+      "Universal access to education",
+      "Reduction in internet energy use",
+      "Unequal access to digital technologies and services"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Unequal access to digital technologies and services"
+  },
+  {
+    "question": "Which is a major challenge for sustainable development?",
+    "options": [
+      "Absence of population growth everywhere",
+      "Unlimited availability of resources",
+      "Climate change",
+      "Complete elimination of poverty"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Climate change"
+  },
+  {
+    "question": "Identify the building practice that best supports sustainable building design.",
+    "options": [
+      "Selecting materials solely for appearance",
+      "Selecting materials with appropriate environmental performance",
+      "Ignoring material resource requirements",
+      "Maximizing material wastage"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Selecting materials with appropriate environmental performance"
+  },
+  {
+    "question": "State the purpose of green building certification in evaluating buildings.",
+    "options": [
+      "Only the height of a building",
+      "Only the number of occupants",
+      "Sustainable features and performance of buildings",
+      "Only the construction cost"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Sustainable features and performance of buildings"
+  },
+  {
+    "question": "Identify the building practice that is most consistent with energy efficiency.",
+    "options": [
+      "Increasing air-conditioning losses",
+      "Using inefficient lighting continuously",
+      "Avoiding energy-saving measures",
+      "Reducing unnecessary energy use through efficient systems"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Reducing unnecessary energy use through efficient systems"
+  },
+  {
+    "question": "State the meaning of sustainable urbanisation.",
+    "options": [
+      "Urban development that considers environmental, social and resource needs",
+      "Uncontrolled expansion of cities",
+      "Urban development without resource planning",
+      "Maximizing environmental degradation"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Urban development that considers environmental, social and resource needs"
+  },
+  {
+    "question": "Identify an important consideration in sustainable urbanisation.",
+    "options": [
+      "Increasing uncontrolled waste generation",
+      "Efficient use of resources and reduced environmental impacts",
+      "Ignoring transport requirements",
+      "Increasing resource depletion"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Efficient use of resources and reduced environmental impacts"
+  },
+  {
+    "question": "Explain the balance that sustainable urbanisation aims to achieve with urban growth.",
+    "options": [
+      "Uncontrolled industrial expansion",
+      "Maximum resource consumption",
+      "Environmental and social sustainability",
+      "Elimination of public services"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Environmental and social sustainability"
+  },
+  {
+    "question": "Identify the concept included under sustainable habitat.",
+    "options": [
+      "Mineral exploitation",
+      "Carbon trading",
+      "Ozone layer depletion",
+      "Sustainable transport"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Sustainable transport"
+  },
+  {
+    "question": "State the main objective of sustainable transport.",
+    "options": [
+      "Provide mobility while reducing environmental impacts",
+      "Increase unnecessary fuel consumption",
+      "Increase traffic-related pollution",
+      "Promote inefficient transportation"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Provide mobility while reducing environmental impacts"
+  },
+  {
+    "question": "Identify the transport approach that is most consistent with sustainability.",
+    "options": [
+      "Increasing dependence on inefficient travel",
+      "Improving transport efficiency while reducing environmental impacts",
+      "Promoting unnecessary fuel use",
+      "Ignoring environmental effects of transport"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Improving transport efficiency while reducing environmental impacts"
+  },
+  {
+    "question": "Identify the factors that should be considered in a sustainable transport system.",
+    "options": [
+      "Only vehicle appearance",
+      "Only vehicle speed",
+      "Mobility, resource efficiency and environmental impacts",
+      "Only road length"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Mobility, resource efficiency and environmental impacts"
+  },
+  {
+    "question": "Identify the urban feature that can contribute to sustainable transport.",
+    "options": [
+      "Increased dependence on inefficient transport",
+      "Unplanned expansion of road traffic",
+      "Uncontrolled fuel consumption",
+      "Efficient and environmentally responsible transportation systems"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Efficient and environmentally responsible transportation systems"
+  },
+  {
+    "question": "Explain how industrialisation can contribute to poverty reduction.",
+    "options": [
+      "Employment and economic opportunities",
+      "Elimination of all economic activity",
+      "Increasing resource wastage",
+      "Preventing industrial development"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Employment and economic opportunities"
+  },
+  {
+    "question": "Explain the relationship between industrialisation and poverty reduction in sustainable development.",
+    "options": [
+      "Industrial growth without environmental consideration",
+      "Economic opportunities alongside responsible development",
+      "Elimination of employment opportunities",
+      "Uncontrolled pollution as a development strategy"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Economic opportunities alongside responsible development"
+  },
+  {
+    "question": "Describe the concept of sustainable industrialisation.",
+    "options": [
+      "Industrial growth with unlimited waste generation",
+      "Industrial development without environmental controls",
+      "Industrial development combined with efficient resource use and pollution prevention",
+      "Industrial expansion through maximum resource depletion"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Industrial development combined with efficient resource use and pollution prevention"
+  },
+  {
+    "question": "Identify the factors that should be considered in material selection for sustainable industrial processes.",
+    "options": [
+      "Only colour and appearance",
+      "Only product size",
+      "Only packaging design",
+      "Resource efficiency and environmental performance"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Resource efficiency and environmental performance"
+  },
+  {
+    "question": "State the purpose of appropriate material selection in sustainable industries.",
+    "options": [
+      "Support efficient and environmentally responsible industrial processes",
+      "Increase unnecessary raw-material use",
+      "Promote maximum waste generation",
+      "Increase environmental degradation"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Support efficient and environmentally responsible industrial processes"
+  },
+  {
+    "question": "State the primary focus of pollution prevention in an industrial process.",
+    "options": [
+      "Increasing pollution before treatment",
+      "Preventing pollution at its source",
+      "Ignoring emissions",
+      "Increasing waste generation"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Preventing pollution at its source"
+  },
+  {
+    "question": "Identify the approach that represents pollution prevention.",
+    "options": [
+      "Allowing uncontrolled emissions",
+      "Increasing waste production",
+      "Modifying a process to reduce waste or emissions at source",
+      "Delaying all environmental controls"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Modifying a process to reduce waste or emissions at source"
+  },
+  {
+    "question": "Explain why pollution prevention is generally preferred over pollution control.",
+    "options": [
+      "Always increases industrial waste",
+      "Eliminates the need for resource efficiency",
+      "Promotes uncontrolled discharge",
+      "Reduces pollution generation before it becomes a waste- management problem"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Reduces pollution generation before it becomes a waste- management problem"
+  },
+  {
+    "question": "State the main focus of industrial ecology.",
+    "options": [
+      "Interactions between industrial systems and the environment",
+      "Only the architecture of buildings",
+      "Only urban population growth",
+      "Only transportation speed"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Interactions between industrial systems and the environment"
+  },
+  {
+    "question": "Explain what the concept of industrial ecology encourages industries to do.",
+    "options": [
+      "Increase waste without recovery",
+      "Operate with greater awareness of material and energy flows",
+      "Ignore environmental interactions",
+      "Maximize resource depletion"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Operate with greater awareness of material and energy flows"
+  },
+  {
+    "question": "Identify the concept closely associated with industrial ecology.",
+    "options": [
+      "Uncontrolled resource extraction",
+      "Increasing industrial waste",
+      "Efficient management of material and energy flows",
+      "Ignoring environmental impacts"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Efficient management of material and energy flows"
+  },
+  {
+    "question": "State the meaning of industrial symbiosis.",
+    "options": [
+      "Complete isolation of industries",
+      "Increasing disposal of usable materials",
+      "Preventing all industrial interactions",
+      "Useful exchanges of resources or by-products between industrial units"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Useful exchanges of resources or by-products between industrial units"
+  },
+  {
+    "question": "Explain how a by-product from one industry can be utilized by another industry.",
+    "options": [
+      "Serve as a useful input for another industry",
+      "Always be treated as hazardous waste",
+      "Never be reused",
+      "Always require disposal"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Serve as a useful input for another industry"
+  },
+  {
+    "question": "State the environmental and industrial systems examined by industrial ecology.",
+    "options": [
+      "Interactions between industrial systems and the environment",
+      "Only the architecture of buildings",
+      "Only urban population growth",
+      "Only transportation speed"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Interactions between industrial systems and the environment"
+  },
+  {
+    "question": "Which concept defines the maximum population size of a species that an ecosystem can sustain indefinitely without degrading the environment?",
+    "options": [
+      "Carrying capacity",
+      "Biophysical turnover",
+      "Economic yield limit",
+      "Demographic overshoot"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Carrying capacity"
+  },
+  {
+    "question": "What does an Ecological Footprint measure?",
+    "options": [
+      "The total physical area of natural land required to absorb industrial noise pollution",
+      "The demand placed by human populations on Earth's ecosystems relative to biocapacity",
+      "The concentration of heavy metals in urban municipal solid waste",
+      "The total volume of groundwater extracted by agricultural sector annually"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: The demand placed by human populations on Earth's ecosystems relative to biocapacity"
+  },
+  {
+    "question": "Which United Nations agreement introduced the 17 Sustainable Development Goals (SDGs)?",
+    "options": [
+      "The Kyoto Protocol",
+      "The Montreal Protocol",
+      "The 2030 Agenda for Sustainable Development",
+      "The Paris Climate Agreement"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: The 2030 Agenda for Sustainable Development"
+  },
+  {
+    "question": "Which UN Sustainable Development Goal specifically targets Clean Water and Sanitation?",
+    "options": [
+      "SDG 3",
+      "SDG 6",
+      "SDG 11",
+      "SDG 14"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: SDG 6"
+  },
+  {
+    "question": "Which UN Sustainable Development Goal specifically targets Climate Action?",
+    "options": [
+      "SDG 7",
+      "SDG 9",
+      "SDG 13",
+      "SDG 15"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: SDG 13"
+  },
+  {
+    "question": "What is the primary objective of a Circular Economy model?",
+    "options": [
+      "Maximize resource extraction to meet market demand",
+      "Eliminate waste and pollution by keeping products and materials in continuous reuse",
+      "Encourage rapid product obsolescence to boost manufacturing revenue",
+      "Replace all renewable resources with non-renewable synthetic alternatives"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Eliminate waste and pollution by keeping products and materials in continuous reuse"
+  },
+  {
+    "question": "Which term describes a situation where humanity's resource consumption exceeds Earth's capacity to regenerate those resources?",
+    "options": [
+      "Ecological overshoot",
+      "Environmental equilibrium",
+      "Biophysical balance",
+      "Resource optimization"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Ecological overshoot"
+  },
+  {
+    "question": "What practice involves conveying a false or misleading impression about how environmentally sound a company's products or policies are?",
+    "options": [
+      "Greenwashing",
+      "Phytoremediation",
+      "Ecological auditing",
+      "Carbon accounting"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Greenwashing"
+  },
+  {
+    "question": "In ecological footprint analysis, what does 'Biocapacity' represent?",
+    "options": [
+      "The capacity of ecosystems to produce biological materials and absorb human-generated waste",
+      "The maximum artificial energy generated by solar thermal collectors",
+      "The volume of methane released per ton of organic landfill waste",
+      "The total metabolic heat output of urban human populations"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: The capacity of ecosystems to produce biological materials and absorb human-generated waste"
+  },
+  {
+    "question": "Which market-based policy instrument sets a limit on emissions and allows companies to buy and sell emission allowances?",
+    "options": [
+      "Cap-and-trade system",
+      "Direct command prohibition",
+      "Unconditional resource subsidy",
+      "Absolute regulatory waiver"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Cap-and-trade system"
+  },
+  {
+    "question": "Which energy source is classified as zero-emission renewable energy during operation?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Solar photovoltaics",
+      "Heavy fuel oil"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Solar photovoltaics"
+  },
+  {
+    "question": "How does high biodiversity contribute to ecosystem sustainability?",
+    "options": [
+      "It increases resistance and resilience against environmental disturbances",
+      "It accelerates the rate of natural resource depletion",
+      "It destabilizes ecological food chains and nutrient cycles",
+      "It halts all natural biological evolution processes"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: It increases resistance and resilience against environmental disturbances"
+  },
+  {
+    "question": "What is the key focus of Sustainable Agriculture?",
+    "options": [
+      "Maximizing short-term crop yields through heavy application of synthetic chemicals",
+      "Producing food while maintaining soil health, conserving water, and minimizing environmental impact",
+      "Replacing diverse crops with large-scale single-crop monocultures",
+      "Depleting groundwater aquifers for immediate irrigation needs"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Producing food while maintaining soil health, conserving water, and minimizing environmental impact"
+  },
+  {
+    "question": "Which economic framework proposes living within planetary boundaries while satisfying basic human needs?",
+    "options": [
+      "Doughnut Economics",
+      "Linear Exploitation Model",
+      "Unbounded Growth Model",
+      "Fossil Fuel Extraction Economics"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Doughnut Economics"
+  },
+  {
+    "question": "Which type of urban design strategy aims to curb urban sprawl and promote public transportation?",
+    "options": [
+      "Smart Growth and compact city design",
+      "Unrestricted suburban extension",
+      "Automobile-centric highway development",
+      "Industrial zone encroachment on agricultural land"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Smart Growth and compact city design"
+  },
+  {
+    "question": "What is Life Cycle Assessment (LCA)?",
+    "options": [
+      "A methodology to evaluate the environmental impacts of a product across all stages of its life cycle",
+      "A financial auditing tool to calculate quarterly corporate net profits",
+      "A biological survey method to estimate the lifespan of wild organisms",
+      "A mechanical test measuring structural fatigue in industrial machinery"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: A methodology to evaluate the environmental impacts of a product across all stages of its life cycle"
+  },
+  {
+    "question": "According to ISO 14040, what is the FIRST step in performing a Life Cycle Assessment?",
+    "options": [
+      "Impact Assessment",
+      "Inventory Analysis",
+      "Goal and Scope Definition",
+      "Life Cycle Interpretation"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Goal and Scope Definition"
+  },
+  {
+    "question": "In Design for Environment (DfE), what does 'Design for Disassembly' emphasize?",
+    "options": [
+      "Creating products that easily break down during standard consumer use",
+      "Designing products so parts can be easily separated for recycling, repair, or reuse at end-of-life",
+      "Bonding non-separable synthetic composites using permanent adhesives",
+      "Manufacturing single-use products that cannot be taken apart"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Designing products so parts can be easily separated for recycling, repair, or reuse at end-of-life"
+  },
+  {
+    "question": "What is the core principle of the 'Cradle-to-Cradle' design framework?",
+    "options": [
+      "Products are designed so all output materials safely become nutrients in biological or industrial cycles",
+      "Products are designed to end up in municipal sanitary landfills after one cycle",
+      "Products rely solely on non-recyclable toxic chemical compounds",
+      "Waste generated during usage is incinerated without energy recovery"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Products are designed so all output materials safely become nutrients in biological or industrial cycles"
+  },
+  {
+    "question": "What policy approach makes manufacturers responsible for the post-consumer disposal and recycling of their products?",
+    "options": [
+      "Extended Producer Responsibility (EPR)",
+      "Municipal Waste Deregulation",
+      "Consumer Liability Mandate",
+      "Zero Manufacturer Overhead Policy"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Extended Producer Responsibility (EPR)"
+  },
+  {
+    "question": "Which benchmark eco-industrial park in Denmark is globally recognized for pioneering Industrial Symbiosis?",
+    "options": [
+      "Kalundborg Symbiosis",
+      "Ruhr Industrial Complex",
+      "Silicon Valley Eco-Hub",
+      "Shenzhen Green Industrial Zone"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Kalundborg Symbiosis"
+  },
+  {
+    "question": "In the standard waste management hierarchy (3 Rs), which option is considered most desirable?",
+    "options": [
+      "Recycle",
+      "Reuse",
+      "Reduce (Source Reduction)",
+      "Incineration with energy recovery"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Reduce (Source Reduction)"
+  },
+  {
+    "question": "What is the main objective of Green Chemistry?",
+    "options": [
+      "Designing chemical products and processes that reduce or eliminate hazardous substances",
+      "Developing synthetic dyes for plant tissue staining",
+      "Increasing the production volume of non-biodegradable solvents",
+      "Extracting chemical elements from uncultivated agricultural soils"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Designing chemical products and processes that reduce or eliminate hazardous substances"
+  },
+  {
+    "question": "Which principle is a core element of the 12 Principles of Green Chemistry?",
+    "options": [
+      "Atom Economy (maximizing conversion efficiency of inputs into final product)",
+      "Maximizing solvent usage in industrial synthesis",
+      "Eliminating energy efficiency evaluation",
+      "Promoting bio-accumulative chemical design"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Atom Economy (maximizing conversion efficiency of inputs into final product)"
+  },
+  {
+    "question": "What does an industrial energy audit evaluate?",
+    "options": [
+      "Energy consumption patterns to identify efficiency gains and reduce waste",
+      "Employee compliance with standard corporate working hours",
+      "Financial bank transactions of industrial raw material suppliers",
+      "The aesthetic appearance of industrial plant lighting"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Energy consumption patterns to identify efficiency gains and reduce waste"
+  },
+  {
+    "question": "How does UNEP define Cleaner Production?",
+    "options": [
+      "Continuous application of an integrated preventive environmental strategy to processes, products, and services",
+      "Washing manufacturing equipment with high-pressure purified water prior to operation",
+      "Relocating polluting industrial facilities to remote geographical areas",
+      "Installing chimney filters to treat exhaust emissions after generation"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Continuous application of an integrated preventive environmental strategy to processes, products, and services"
+  },
+  {
+    "question": "What is the key difference between End-of-Pipe treatment and Pollution Prevention?",
+    "options": [
+      "End-of-pipe treats waste after generation, while pollution prevention reduces waste at source",
+      "End-of-pipe eliminates the need for environmental compliance permits",
+      "Pollution prevention focuses solely on municipal solid waste incineration",
+      "End-of-pipe is always more cost-effective than process modification"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: End-of-pipe treats waste after generation, while pollution prevention reduces waste at source"
+  },
+  {
+    "question": "Which standard family provides frameworks for Environmental Management Systems (EMS)?",
+    "options": [
+      "ISO 9001",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 50001"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: ISO 14001"
+  },
+  {
+    "question": "What does Dematerialization refer to in sustainable development?",
+    "options": [
+      "Reducing the total mass of materials required to deliver a specific economic or utility function",
+      "Converting all physical industrial products into digital software applications",
+      "Replacing recyclable structural metals with low-grade non-recyclable polymers",
+      "Increasing the physical dimensions and weight of consumer hardware"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Reducing the total mass of materials required to deliver a specific economic or utility function"
+  },
+  {
+    "question": "In industrial ecology, what does 'Industrial Symbiosis' involve?",
+    "options": [
+      "Exchanging materials, energy, water, and by- products between different industrial facilities",
+      "Isolating industrial manufacturing plants from all surrounding supply networks",
+      "Increasing off-site hazardous waste dumping in public landfills",
+      "Preventing inter-industry communication and technology sharing"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Exchanging materials, energy, water, and by- products between different industrial facilities"
+  },
+  {
+    "question": "Poverty can hinder sustainable development because it may:",
+    "options": [
+      "Guarantee equal opportunities",
+      "Always reduce pressure on resources",
+      "Limit access to basic services and sustainable choices",
+      "Automatically improve environmental quality"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Limit access to basic services and sustainable choices"
+  },
+  {
+    "question": "Unsustainable consumption patterns can lead to:",
+    "options": [
+      "Permanent resource abundance",
+      "Resource depletion and increased waste",
+      "Automatic ecosystem restoration",
+      "Zero pollution"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Resource depletion and increased waste"
+  },
+  {
+    "question": "Biodiversity loss threatens sustainability because biodiversity:",
+    "options": [
+      "Only affects tourism",
+      "Supports ecosystem functions and services",
+      "Always increases when habitats are destroyed",
+      "Has no relationship with human well-being"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Supports ecosystem functions and services"
+  },
+  {
+    "question": "Water scarcity is a sustainability challenge because it can affect:",
+    "options": [
+      "Human health, agriculture, ecosystems and economic activity",
+      "Only entertainment",
+      "Only telecommunications",
+      "Only transportation"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Human health, agriculture, ecosystems and economic activity"
+  },
+  {
+    "question": "An important approach to address sustainable development challenges is:",
+    "options": [
+      "Ignoring local communities",
+      "Postponing all environmental action",
+      "Considering economic factors alone",
+      "Integrated planning involving environmental, social and economic factors"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Integrated planning involving environmental, social and economic factors"
+  },
+  {
+    "question": "A multilateral environmental agreement is generally an agreement:",
+    "options": [
+      "That deals only with taxation",
+      "Within a single company only",
+      "Among multiple countries to address environmental issues",
+      "Between two individuals"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Among multiple countries to address environmental issues"
+  },
+  {
+    "question": "The Montreal Protocol primarily addresses:",
+    "options": [
+      "International trade in food",
+      "Noise pollution",
+      "Substances that deplete the ozone layer",
+      "Groundwater ownership"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Substances that deplete the ozone layer"
+  },
+  {
+    "question": "The Kyoto Protocol is associated primarily with:",
+    "options": [
+      "Regulation of municipal noise",
+      "Protection of the ozone layer from CFCs only",
+      "Reduction of greenhouse gas emissions",
+      "Control of international wildlife trade"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Reduction of greenhouse gas emissions"
+  },
+  {
+    "question": "The Paris Agreement is primarily concerned with:",
+    "options": [
+      "Marine fishing licenses only",
+      "Nuclear power plant design",
+      "Global action on climate change",
+      "Urban traffic rules"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Global action on climate change"
+  },
+  {
+    "question": "The Convention on Biological Diversity primarily promotes:",
+    "options": [
+      "Unregulated wildlife trade",
+      "Conservation and sustainable use of biological diversity",
+      "Elimination of protected areas",
+      "Expansion of fossil-fuel use"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Conservation and sustainable use of biological diversity"
+  },
+  {
+    "question": "The Basel Convention deals mainly with:",
+    "options": [
+      "Transboundary movements and disposal of hazardous wastes",
+      "Ozone-depleting substances",
+      "Greenhouse gas trading only",
+      "River-water sharing within a city"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Transboundary movements and disposal of hazardous wastes"
+  },
+  {
+    "question": "The Ramsar Convention is associated with the conservation and wise use of:",
+    "options": [
+      "Deserts",
+      "Mountains only",
+      "Urban roads",
+      "Wetlands"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Wetlands"
+  },
+  {
+    "question": "An environmental protocol is generally used to:",
+    "options": [
+      "Replace all national laws automatically",
+      "Set specific commitments or procedures under an international environmental framework",
+      "Set product prices globally",
+      "Regulate only school education"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Set specific commitments or procedures under an international environmental framework"
+  },
+  {
+    "question": "CDM stands for:",
+    "options": [
+      "Clean Development Mechanism",
+      "Carbon Distribution Method",
+      "Clean Disposal Management",
+      "Climate Development Measure"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Clean Development Mechanism"
+  },
+  {
+    "question": "The Clean Development Mechanism was established under the:",
+    "options": [
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Ramsar Convention",
+      "Stockholm Declaration"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Kyoto Protocol"
+  },
+  {
+    "question": "Under CDM, emission-reduction projects are implemented primarily in:",
+    "options": [
+      "Developing countries",
+      "Only polar regions",
+      "Only developed countries",
+      "Countries without industries"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Developing countries"
+  },
+  {
+    "question": "A key purpose of CDM is to:",
+    "options": [
+      "Eliminate international cooperation",
+      "Promote emission-reduction projects while supporting sustainable development",
+      "Increase greenhouse gas emissions",
+      "Ban renewable energy projects"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Promote emission-reduction projects while supporting sustainable development"
+  },
+  {
+    "question": "Certified Emission Reductions generated through CDM are commonly abbreviated as:",
+    "options": [
+      "CERs",
+      "EIA",
+      "CFCs",
+      "BOD"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: CERs"
+  },
+  {
+    "question": "Which project could potentially fit the objectives of CDM?",
+    "options": [
+      "Deliberate destruction of forests",
+      "Expansion of an inefficient coal plant without emission reduction",
+      "Open burning of municipal waste",
+      "A renewable-energy project that reduces greenhouse gas emissions"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: A renewable-energy project that reduces greenhouse gas emissions"
+  },
+  {
+    "question": "The Water (Prevention and Control of Pollution) Act in India was enacted in:",
+    "options": [
+      "1986",
+      "1974",
+      "1981",
+      "1991"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: 1974"
+  },
+  {
+    "question": "The main objective of the Water Act, 1974 is to:",
+    "options": [
+      "Prevent and control water pollution and maintain or restore the wholesomeness of water",
+      "Promote untreated discharge into rivers",
+      "Control wildlife hunting",
+      "Regulate only air pollution"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Prevent and control water pollution and maintain or restore the wholesomeness of water"
+  },
+  {
+    "question": "The Water Act provides for the establishment of:",
+    "options": [
+      "National banking authorities",
+      "Only municipal schools",
+      "Central and State Pollution Control Boards",
+      "Forest survey committees only"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Central and State Pollution Control Boards"
+  },
+  {
+    "question": "The Air (Prevention and Control of Pollution) Act in India was enacted in:",
+    "options": [
+      "1981",
+      "1972",
+      "1974",
+      "1992"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: 1981"
+  },
+  {
+    "question": "The primary purpose of the Air Act, 1981 is to:",
+    "options": [
+      "Protect monuments only",
+      "Manage agricultural subsidies",
+      "Regulate drinking-water tariffs",
+      "Prevent, control and abate air pollution"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Prevent, control and abate air pollution"
+  },
+  {
+    "question": "Which bodies play a major role in implementing both the Water Act and Air Act in India?",
+    "options": [
+      "Central and State Pollution Control Boards",
+      "Food Corporation of India only",
+      "Election Commission only",
+      "University Grants Commission only"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Central and State Pollution Control Boards"
+  },
+  {
+    "question": "Which activity is most relevant when assessing neighbourhood educational sustainability?",
+    "options": [
+      "Evaluating access, inclusiveness and resource- efficient practices in educational facilities",
+      "Measuring only rainfall",
+      "Recording only food prices",
+      "Counting only private vehicles"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Evaluating access, inclusiveness and resource- efficient practices in educational facilities"
+  },
+  {
+    "question": "A useful indicator of sustainable housing is:",
+    "options": [
+      "Energy efficiency, adequate ventilation and access to basic services",
+      "Dependence on excessive groundwater extraction",
+      "Absence of waste segregation",
+      "Maximum electricity consumption"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Energy efficiency, adequate ventilation and access to basic services"
+  },
+  {
+    "question": "During a neighbourhood water-resource assessment, which parameter is most useful?",
+    "options": [
+      "Water availability, quality, consumption and conservation practices",
+      "Road paint colour",
+      "Mobile-phone brand",
+      "Number of televisions"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Water availability, quality, consumption and conservation practices"
+  },
+  {
+    "question": "Which observation best indicates sustainable household water management?",
+    "options": [
+      "Discharging waste into storm drains",
+      "Continuous overflow from storage tanks",
+      "Rainwater harvesting and repair of leaking taps",
+      "Using potable water unnecessarily for all outdoor cleaning"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Rainwater harvesting and repair of leaking taps"
+  },
+  {
+    "question": "For a neighbourhood energy-resource field study, students should examine:",
+    "options": [
+      "Only family size",
+      "Only street names",
+      "Energy sources, consumption patterns and efficiency measures",
+      "Only building colour"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Energy sources, consumption patterns and efficiency measures"
+  },
+  {
+    "question": "Which finding would indicate improved energy sustainability in a neighbourhood?",
+    "options": [
+      "Dependence on inefficient appliances",
+      "Burning waste for routine lighting",
+      "Leaving lights on continuously",
+      "Use of LED lighting and rooftop solar systems"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Use of LED lighting and rooftop solar systems"
+  },
+  {
+    "question": "A sustainable food-supply assessment should consider:",
+    "options": [
+      "Only shop size",
+      "Food source, transport distance, waste, nutrition and local availability",
+      "Only packaging colour",
+      "Only advertising frequency"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Food source, transport distance, waste, nutrition and local availability"
+  },
+  {
+    "question": "Buying locally produced seasonal food can support sustainability by:",
+    "options": [
+      "Always increasing food miles",
+      "Eliminating the need for food safety",
+      "Potentially reducing transport impacts and supporting local producers",
+      "Increasing unnecessary packaging by definition"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Potentially reducing transport impacts and supporting local producers"
+  },
+  {
+    "question": "Which land-use pattern generally supports neighbourhood sustainability?",
+    "options": [
+      "Complete removal of green spaces",
+      "Unplanned construction on all open land",
+      "Balanced allocation for housing, green spaces, services and mobility",
+      "Development that blocks natural drainage"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Balanced allocation for housing, green spaces, services and mobility"
+  },
+  {
+    "question": "Why are urban green spaces important in a sustainability assessment?",
+    "options": [
+      "They have no ecological function",
+      "They can support biodiversity, recreation, cooling and stormwater management",
+      "They increase air pollution by definition",
+      "They prevent all community interaction"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: They can support biodiversity, recreation, cooling and stormwater management"
+  },
+  {
+    "question": "Which observation is most relevant to neighbourhood environmental protection?",
+    "options": [
+      "Colour of private houses",
+      "Waste segregation, pollution control and protection of local ecosystems",
+      "Number of commercial advertisements",
+      "Brand of household appliances"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Waste segregation, pollution control and protection of local ecosystems"
+  },
+  {
+    "question": "A good method for conducting a neighbourhood sustainability field study is to:",
+    "options": [
+      "Use assumptions without visiting the area",
+      "Ignore measurable indicators",
+      "Combine direct observation, surveys, measurements and secondary information",
+      "Collect only opinions from one person"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Combine direct observation, surveys, measurements and secondary information"
+  },
+  {
+    "question": "A sustainability indicator should ideally be:",
+    "options": [
+      "Impossible to measure",
+      "Relevant, measurable and useful for comparison or tracking",
+      "Unrelated to the study objective",
+      "Changed randomly during the study"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Relevant, measurable and useful for comparison or tracking"
+  },
+  {
+    "question": "Which practice best demonstrates community participation in sustainability?",
+    "options": [
+      "Residents ignoring local environmental problems",
+      "Residents jointly organizing waste segregation and conservation initiatives",
+      "Preventing public discussion",
+      "Increasing littering in common areas"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Residents jointly organizing waste segregation and conservation initiatives"
+  },
+  {
+    "question": "After completing a neighbourhood sustainability assessment, the most appropriate final step is to:",
+    "options": [
+      "Avoid linking findings to sustainability indicators",
+      "Discard the observations without analysis",
+      "Identify strengths and gaps and recommend feasible improvements",
+      "Report only positive findings"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Identify strengths and gaps and recommend feasible improvements"
+  },
+  {
+    "question": "Identify the sustainable industrial practice associated with selecting a less environmentally intensive material for an industrial product.",
+    "options": [
+      "Sustainable material selection",
+      "Carbon trading",
+      "Ozone depletion",
+      "Poverty measurement"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Sustainable material selection"
+  },
+  {
+    "question": "Explain the relationship between industrial ecology and industrial symbiosis.",
+    "options": [
+      "Industrial symbiosis eliminates the need for industrial ecology",
+      "Industrial symbiosis can be an application of industrial ecology through resource exchanges",
+      "Industrial ecology promotes resource wastage",
+      "The two concepts are unrelated"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Industrial symbiosis can be an application of industrial ecology through resource exchanges"
+  },
+  {
+    "question": "State the primary aim of a sustainable transport policy.",
+    "options": [
+      "Increase unnecessary travel",
+      "Increase fuel consumption",
+      "Meet mobility needs with lower environmental impacts",
+      "Promote inefficient vehicles"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Meet mobility needs with lower environmental impacts"
+  },
+  {
+    "question": "Identify the action that would most directly improve building energy efficiency.",
+    "options": [
+      "Increasing unnecessary lighting",
+      "Increasing heat loss",
+      "Using inefficient equipment continuously",
+      "Reducing avoidable energy use through efficient building methods"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Reducing avoidable energy use through efficient building methods"
+  },
+  {
+    "question": "State the primary factors to be considered when selecting a green building material.",
+    "options": [
+      "Its suitability for sustainable design and environmental performance",
+      "Only its colour",
+      "Only its decorative value",
+      "Only its packaging"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Its suitability for sustainable design and environmental performance"
+  },
+  {
+    "question": "Identify the outcome consistent with effective pollution prevention.",
+    "options": [
+      "Higher uncontrolled emissions",
+      "Lower generation of pollutants and waste at the source",
+      "Greater waste generation",
+      "Increased environmental damage"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Lower generation of pollutants and waste at the source"
+  },
+  {
+    "question": "Describe the main features of sustainable urbanisation.",
+    "options": [
+      "Urban growth should ignore environmental impacts",
+      "Urban growth should maximize resource depletion",
+      "Urban growth should be managed while considering environmental and resource sustainability",
+      "Urban growth should eliminate transport planning"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: Urban growth should be managed while considering environmental and resource sustainability"
+  },
+  {
+    "question": "Identify the practice that best represents a sustainable industrial process.",
+    "options": [
+      "Maximum raw-material consumption",
+      "Uncontrolled discharge of wastes",
+      "Avoidance of resource efficiency",
+      "Efficient material selection combined with pollution prevention"
+    ],
+    "answer": 3,
+    "explanation": "Correct answer: Efficient material selection combined with pollution prevention"
+  },
+  {
+    "question": "Explain how industrial symbiosis can contribute to sustainability.",
+    "options": [
+      "Turning potentially useful industrial by-products into inputs for other processes",
+      "Increasing disposal of usable materials",
+      "Increasing dependence on virgin resources in all cases",
+      "Preventing resource exchanges"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Turning potentially useful industrial by-products into inputs for other processes"
+  },
+  {
+    "question": "Identify the concept directly related to reducing environmental impacts through building design.",
+    "options": [
+      "Carbon trading",
+      "Green building",
+      "Water Act",
+      "Mineral exploitation"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Green building"
+  },
+  {
+    "question": "What is the primary objective of a Sustainable Habitat?",
+    "options": [
+      "To build high-density urban structures regardless of environmental impact",
+      "To create human settlements that meet living needs while minimizing ecological footprint and resource depletion",
+      "To maximize energy consumption in residential and commercial sectors",
+      "To replace all natural green spaces with paved infrastructure"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: To create human settlements that meet living needs while minimizing ecological footprint and resource depletion"
+  },
+  {
+    "question": "Which Green Building rating system was specifically developed for the Indian climate and construction context by TERI and Ministry of New and Renewable Energy (MNRE)?",
+    "options": [
+      "LEED",
+      "BREEAM",
+      "GRIHA (Green Rating for Integrated Habitat Assessment)",
+      "CASBEE"
+    ],
+    "answer": 2,
+    "explanation": "Correct answer: GRIHA (Green Rating for Integrated Habitat Assessment)"
+  },
+  {
+    "question": "In India, what does the IGBC stand for in the context of sustainable habitats?",
+    "options": [
+      "Indian Green Building Council",
+      "International Green Building Center",
+      "Integrated Green Biosphere Committee",
+      "Industrial Growth and Building Code"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Indian Green Building Council"
+  },
+  {
+    "question": "Which principle forms the foundation of passive solar building design in sustainable habitats?",
+    "options": [
+      "Relying strictly on high-powered HVAC air conditioning units",
+      "Utilizing building orientation, window placement, and thermal mass to naturally heat and cool spaces",
+      "Eliminating all window openings to prevent light penetration",
+      "Using continuous artificial LED lighting during daylight hours"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Utilizing building orientation, window placement, and thermal mass to naturally heat and cool spaces"
+  },
+  {
+    "question": "What is 'Embodied Energy' in sustainable building materials?",
+    "options": [
+      "The total energy consumed during the entire lifecycle of a material, including extraction, processing, transport, and assembly",
+      "The electrical energy generated by a building's rooftop solar panels during winter",
+      "The kinetic energy exerted by inhabitants inside a high- rise building",
+      "The potential thermal energy stored in air conditioning units"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: The total energy consumed during the entire lifecycle of a material, including extraction, processing, transport, and assembly"
+  },
+  {
+    "question": "What is the Urban Heat Island (UHI) effect in sustainable habitat planning?",
+    "options": [
+      "A phenomenon where urban areas experience significantly higher temperatures than surrounding rural areas due to human activities and dark surfaces",
+      "A coastal flooding phenomenon caused by tropical island storm surges",
+      "The rapid cooling of city centers during peak summer afternoons",
+      "An artificial indoor thermal control system used in high- tech habitats"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: A phenomenon where urban areas experience significantly higher temperatures than surrounding rural areas due to human activities and dark surfaces"
+  },
+  {
+    "question": "Which feature effectively helps mitigate the Urban Heat Island (UHI) effect in cities?",
+    "options": [
+      "Increasing asphalt paving in open plazas",
+      "Promoting urban green roofs, cool pavements, and urban tree canopy cover",
+      "Removing water bodies to expand commercial land area",
+      "Installing reflective glass facades on all facing buildings"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Promoting urban green roofs, cool pavements, and urban tree canopy cover"
+  },
+  {
+    "question": "What is the main purpose of installing a 'Green Roof' on a building in a sustainable habitat?",
+    "options": [
+      "To increase roof structural load without functional purpose",
+      "To provide thermal insulation, manage stormwater runoff, and reduce the urban heat island effect",
+      "To eliminate the need for rainwater drainage systems completely",
+      "To replace indoor ventilation systems with soil filtration"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: To provide thermal insulation, manage stormwater runoff, and reduce the urban heat island effect"
+  },
+  {
+    "question": "Which water management practice involves collecting and storing rainwater from rooftops and land surfaces for local reuse?",
+    "options": [
+      "Desalination",
+      "Rainwater Harvesting (RWH)",
+      "Groundwater Over-extraction",
+      "Thermal Evaporative Cooling"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Rainwater Harvesting (RWH)"
+  },
+  {
+    "question": "What is 'Greywater' in residential sustainable habitat design?",
+    "options": [
+      "Untreated wastewater from toilets containing fecal contamination",
+      "Wastewater generated from household processes like washing dishes, laundry, and bathing (excluding toilet waste)",
+      "Pure distilled water derived from atmospheric condensation",
+      "Chemical waste discharged from heavy metal plating factories"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Wastewater generated from household processes like washing dishes, laundry, and bathing (excluding toilet waste)"
+  },
+  {
+    "question": "Why is permeable or porous pavement used in sustainable habitats?",
+    "options": [
+      "To prevent water from filtering into the soil below",
+      "To allow stormwater to infiltrate the ground, reducing surface runoff and recharging aquifers",
+      "To increase surface runoff speed into city storm drains",
+      "To eliminate the need for pedestrian sidewalks"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: To allow stormwater to infiltrate the ground, reducing surface runoff and recharging aquifers"
+  },
+  {
+    "question": "What is DEWATS in sustainable habitat sanitation?",
+    "options": [
+      "Decentralized Wastewater Treatment Systems",
+      "Digital Energy and Water Assessment Tracking Strategy",
+      "Direct Environmental Waste Accumulation Treatment Scheme",
+      "Deep Earth Water Aquifer Transfer System"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Decentralized Wastewater Treatment Systems"
+  },
+  {
+    "question": "What is Transit-Oriented Development (TOD) in sustainable urban design?",
+    "options": [
+      "Urban planning that maximizes commercial development exclusively along high-speed motorways",
+      "Creating compact, walkable, mixed-use communities centered around high-quality public transportation nodes",
+      "Restricting public transport routes to suburban city boundaries",
+      "Prioritizing single-occupancy private automobiles in city center corridors"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Creating compact, walkable, mixed-use communities centered around high-quality public transportation nodes"
+  },
+  {
+    "question": "Which form of transport is classified as Non-Motorized Transport (NMT) in sustainable habitat planning?",
+    "options": [
+      "Diesel commuter trains",
+      "Walking and cycling",
+      "Electric urban buses",
+      "Compressed natural gas (CNG) taxis"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: Walking and cycling"
+  },
+  {
+    "question": "How does 'Complete Streets' design support sustainable urban mobility?",
+    "options": [
+      "By dedicating 100% of street width exclusively to private automobile lanes",
+      "By designing streets that safely accommodate all users, including pedestrians, bicyclists, transit riders, and motorists",
+      "By removing sidewalk infrastructure to increase vehicular speeds",
+      "By prohibiting public transit vehicles from entering residential zones"
+    ],
+    "answer": 1,
+    "explanation": "Correct answer: By designing streets that safely accommodate all users, including pedestrians, bicyclists, transit riders, and motorists"
+  },
+  {
+    "question": "Which of the following is considered an eco-friendly building material with low embodied energy?",
+    "options": [
+      "Fly ash bricks",
+      "Virgin structural aluminum",
+      "High-density synthetic polymer tiles",
+      "Portland cement made with non-recycled clinker"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Fly ash bricks"
+  },
+  {
+    "question": "Why are Low-VOC (Volatile Organic Compound) paints recommended for sustainable interior design?",
+    "options": [
+      "They improve indoor air quality by reducing toxic chemical emissions and off-gassing",
+      "They absorb external structural vibrations from city traffic",
+      "They convert solar light directly into household electrical energy",
+      "They eliminate the requirement for natural ventilation windows"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: They improve indoor air quality by reducing toxic chemical emissions and off-gassing"
+  },
+  {
+    "question": "What is the primary role of a Building Energy Management System (BEMS)?",
+    "options": [
+      "To automate and optimize heating, ventilation, lighting, and power usage to minimize energy waste",
+      "To track municipal property tax payments for high-rise buildings",
+      "To measure structural earthquake tolerance in high-rise habitats",
+      "To regulate public water supply prices in commercial zones"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: To automate and optimize heating, ventilation, lighting, and power usage to minimize energy waste"
+  },
+  {
+    "question": "In India, which building code sets minimum energy performance standards for commercial buildings?",
+    "options": [
+      "ECBC (Energy Conservation Building Code)",
+      "CRZ (Coastal Regulation Zone) Code",
+      "NBC (National Biometric Code)",
+      "BIS (Bureau of International Standards) Standard 100"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: ECBC (Energy Conservation Building Code)"
+  },
+  {
+    "question": "What is 'Net Metering' in sustainable habitat renewable energy systems?",
+    "options": [
+      "A billing mechanism that credits solar PV system owners for electricity they add to the grid",
+      "A method for measuring the physical weight of municipal solid waste",
+      "A water pressure regulator used in high-rise building plumbing",
+      "A system that measures carbon monoxide levels in underground parking garages"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: A billing mechanism that credits solar PV system owners for electricity they add to the grid"
+  },
+  {
+    "question": "What is the key first step in effective municipal solid waste management in a sustainable community?",
+    "options": [
+      "Source segregation into organic, recyclable, and hazardous waste categories",
+      "Dumping mixed waste into open landfills outside city limits",
+      "Incinerating unsegregated wet waste at high temperatures",
+      "Compacting mixed garbage in underground holding vaults"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Source segregation into organic, recyclable, and hazardous waste categories"
+  },
+  {
+    "question": "How does decentralized composting benefit a sustainable residential habitat?",
+    "options": [
+      "It processes organic waste locally, reducing landfill burden and transportation emissions while producing soil nutrient enricher",
+      "It replaces municipal plastic recycling centers",
+      "It generates toxic runoff that cleans residential drainage pipes",
+      "It eliminates the need for domestic water conservation devices"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: It processes organic waste locally, reducing landfill burden and transportation emissions while producing soil nutrient enricher"
+  },
+  {
+    "question": "Under India's National Action Plan on Climate Change (NAPCC), which specific mission addresses sustainable habitats?",
+    "options": [
+      "National Mission on Sustainable Habitat (NMSH)",
+      "National Water Grid Expansion Mission",
+      "National Industrial Corridor Highway Mission",
+      "National Thermal Power Mission"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: National Mission on Sustainable Habitat (NMSH)"
+  },
+  {
+    "question": "What is a key objective of India's Smart Cities Mission regarding sustainable habitats?",
+    "options": [
+      "To promote core infrastructure, clean and sustainable environment, and smart solutions for urban areas",
+      "To relocate rural populations into megacities",
+      "To convert agricultural lands exclusively into heavy manufacturing zones",
+      "To replace all public transport with private motor vehicles"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: To promote core infrastructure, clean and sustainable environment, and smart solutions for urban areas"
+  },
+  {
+    "question": "What parameter is measured by Indoor Environmental Quality (IEQ) in green buildings?",
+    "options": [
+      "Indoor air quality, thermal comfort, lighting quality, and acoustic comfort for occupant well-being",
+      "The total financial resale value of interior furniture",
+      "The total internet bandwidth speed inside office rooms",
+      "The structural thickness of exterior load-bearing columns"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Indoor air quality, thermal comfort, lighting quality, and acoustic comfort for occupant well-being"
+  },
+  {
+    "question": "In passive cooling design, what is a 'Solar Chimney'?",
+    "options": [
+      "A vertical shaft that uses solar thermal buoyancy to draw hot air out and exhaust it from a building",
+      "A chimney designed to burn fossil fuels during daylight hours",
+      "A solar panel mounted inside a conventional kitchen fireplace",
+      "An artificial duct system that pumps heated smoke into residential quarters"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: A vertical shaft that uses solar thermal buoyancy to draw hot air out and exhaust it from a building"
+  },
+  {
+    "question": "What is 'Daylighting' in sustainable building design?",
+    "options": [
+      "Designing spaces to maximize the efficient use of natural sunlight to reduce electric lighting needs",
+      "Installing high-wattage artificial floodlights outdoors during the night",
+      "Blocking natural daylight using tinted black windows to keep interiors cool",
+      "Using diesel generators to power building interior lights during peak sunlight hours"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Designing spaces to maximize the efficient use of natural sunlight to reduce electric lighting needs"
+  },
+  {
+    "question": "What does 'Life Cycle Costing' (LCC) evaluate when designing a sustainable habitat?",
+    "options": [
+      "The total cost of ownership over a building's lifespan, including initial capital, operating, maintenance, and disposal costs",
+      "The upfront purchase cost of raw materials only",
+      "The salary costs of construction workers during the foundation phase",
+      "The monthly municipal traffic fines collected around the building site"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: The total cost of ownership over a building's lifespan, including initial capital, operating, maintenance, and disposal costs"
+  },
+  {
+    "question": "What is the primary function of a 'Cool Roof' in warm climate zones?",
+    "options": [
+      "Reflecting solar radiation and emitting thermal radiation to reduce building cooling loads",
+      "Absorbing maximum solar heat to warm the building interior in summer",
+      "Collecting solar energy using water turbines on the rooftop",
+      "Preventing natural air movement around upper stories of a building"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Reflecting solar radiation and emitting thermal radiation to reduce building cooling loads"
+  },
+  {
+    "question": "What concept refers to designing habitats that can withstand, adapt to, and rapidly recover from natural disasters and climate shocks?",
+    "options": [
+      "Urban Resilience",
+      "Urban Sprawl",
+      "Monoculture Development",
+      "Industrial Centralization"
+    ],
+    "answer": 0,
+    "explanation": "Correct answer: Urban Resilience"
+  }
+]

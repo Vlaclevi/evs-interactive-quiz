@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EVS Interactive Quiz</title><link rel="stylesheet" href="style.css"></head>
+<body><main class="app">
+<header><h1>EVS Interactive Quiz</h1><p>Practice, review, and repeat.</p></header>
+<section class="toolbar">
+<label>Mode <select id="mode"><option value="all">All questions</option><option value="20">Random 20</option><option value="50">Random 50</option></select></label>
+<label><input type="checkbox" id="shuffle"> Shuffle questions</label>
+<button id="start">Start / Restart</button>
+</section>
+<div class="status"><span id="counter">Question 1</span><span id="score">Score: 0</span></div>
+<div class="progress"><div id="bar"></div></div>
+<section id="quiz">
+<h2 id="question">Loading questions…</h2>
+<div id="options"></div>
+<div id="feedback" aria-live="polite"></div>
+<div class="nav"><button id="prev">← Previous</button><button id="next">Next →</button></div>
+</section>
+<section id="finish" hidden><h2>Quiz completed!</h2><p id="result"></p><button id="again">Try again</button></section>
+<footer>Question bank: <code>questions.json</code> · Runs locally in your browser</footer>
+</main><script src="script.js"></script></body></html>
